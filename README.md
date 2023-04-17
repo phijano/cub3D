@@ -29,12 +29,12 @@ F 220,100,0
 
 C 225,30,0
 
-F is for floor color
+F is for floor color.
 
-C is for ceiling color
+C is for ceiling color.
 
 The W, A, S and D are used to move the point of view through the labyrinth.
 
-Left and right arrow or the mouse to look towards the left or right in the maze
+Left and right arrow or the mouse to look towards the left or right in the maze.
 
 Press the ESC key to close the window and the program.
