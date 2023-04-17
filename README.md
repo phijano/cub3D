@@ -15,7 +15,7 @@ $> ./cube3D map.cub
 
 The map are composed of: 0 for an empty space, 1 for a wall and N, S, E and W for the starting position of the player and its initial orientation.
 
-Also the map will have the following:
+Also the map must have the following:
 
 NO ./path_to_north_texture
 
